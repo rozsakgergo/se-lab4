@@ -1,0 +1,3 @@
+SUCCESS # <- GT4500
+FAIL # <- Failure percent is 100%
+FAIL # <- Failure since a previous torpedo failed to launch

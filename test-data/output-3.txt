@@ -1,0 +1,3 @@
+SUCCESS # <- GT4500
+SUCCESS # <- Fired primary torpedo
+SUCCESS # <- Fired primary torpedo again since secondary is empty
